@@ -4,4 +4,4 @@ git is a free software distributed under the GPL.
 
 hello world.
 
-Creating a new branch is quick & simple.
+Creating a branch is quick AND simple.
